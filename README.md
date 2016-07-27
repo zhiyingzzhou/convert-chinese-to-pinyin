@@ -5,5 +5,4 @@
 
 ```
 npm install convert-chinese-to-pinyin
-
 ```
